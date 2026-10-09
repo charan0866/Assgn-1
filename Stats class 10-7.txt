@@ -1,0 +1,92 @@
+Statistics: It is the science of conducting studies to collect, organize, summarize, analyze, and draw a conclusion out of data.
+
+-> Deals with collective, informative data, interpreting and drawing conclusion. 
+-> Used in marketing, business, healthcare etc.
+
+Types of stats:
+
+1. Descriptive: helps us to organize and summarize data using numbers and graphs, finding patterns in it.
+-> Metrics are Mean, median, and mode.(Central tendency)
+-> Standard deviation, variance, and range(Variability)
+
+2. Inferential: Predicting from the population, sample and data used. We use probability to determine the conclusion
+
+Basic Stat terms:
+
+Population: A set of individuals or objects are to be analyzed.
+Sample: It is a subset of a population.
+Variable: It is a characteristic of each element of a population or sample.
+Experiment: It is an activity where we can produce results from a collection of data
+Parameter: Nothing but metrics.
+Statistic: A numerical value summarizing the sample data
+
+Types of descriptive data:
+
+1)Categorical: The data represents groups or categories 
+2)Numerical: It represent numbers and has two groups. Discrete and continuous.
+
+Discrete is finite(no of students in a school, no.of items)
+continuous(Height, area, and time)
+
+Levels of measurement:
+1) Qualitative: It is a variable that categorizes or describes a population element.
+
+2) Quantitative: A variable that quantifies a population element. classified into 2 categories nominal and ordinal
+
+nominal level represents categories that cannot be put in any order, while ordinal represents categories that can be ordered.
+
+2 levels are interval and ratio
+
+Measures of central tendency
+
+mean, median, and mode
+
+Measures of dispersion:
+
+Range, variance, and Standard deviation
+
+Range is diff of largest and smallest
+variance is a measure of dispersion in a data set.
+Standard deviation is the concentration of data around the mean of the data set.
+it is the square root of the variance.
+
+measures of dependence:
+
+covariance and correlation
+
+it is the measure of relationship b/w same and opp direction
+correlation is also relationship b/w 2 features. Person's correlation coefficient.
+
+Symmetrical and Asymmetrical distribution.
+
+mean med and mode lines are close in the graph in sym dis
+in asym dis the lines are dispersed
+
+Random variables:
+
+A set of all possible values froma  random experiment
+
+discrete random variable is one that may take on only a countable number of distinct values.
+If the random variable can take only the finite number of distinct values, then it must be a discrete random variable.
+
+Continuous random variable:
+
+takes an infinite number of possible values.
+
+Set:
+A set is a well-defined collection of objects.
+A set that contains zero elements is called a  null set (empty set).
+
+we can perform operations like union, intersection, and complement between two sets.
+
+
+skewness:
+
+Skewness is defined as a measure of the dataset’s symmetry.   A perfectly symmetrical data set will have zero skewness.   
+
+
+
+
+
+
+
